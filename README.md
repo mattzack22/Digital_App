@@ -1,2 +1,2 @@
 # Digital_App
-Alle_Tools
+Alle nötigen Tools für den Alltag.
